@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This is My React Project for Network Business
+[Join With Me](https://www.facebook.com/ssmd.bayzid/).
 
 ## Available Scripts
 
